@@ -1,0 +1,195 @@
+body{
+  background-color:grey;
+}
+.nav-item :hover{
+  color: #000;
+  background-color: white;
+  font-weight: bolder;
+}
+.headerpicture{
+  border-radius: 20%;
+}
+  .ab-info {
+    background: #243523;
+    margin: -3px auto;
+    padding: 20px 0;
+    padding-bottom: 20px;
+    padding-bottom: 68px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 20%;
+  }
+  .section3 {
+    background-color: #00507e !important;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 20%;
+  }
+  .div-clear{
+    clear: both;
+  }
+
+  .about{
+    list-style: none;
+  }
+  .about li a{
+    color: #fff;
+  }
+  .float-right{
+  }
+  .float-right li{
+    list-style: none;
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  .float-right li a{
+    color: #fff;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: linear .2s;
+  }
+  .float-right li a:hover, .float-right li a:focus{
+    color:black;
+    background-color: white;
+    transition: linear .2s;
+    font-weight: bolder;
+  }
+  
+.contact-info h2 {
+  margin-top: -3px;
+  padding-bottom: 10px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.contact-info p {
+  color: #fff;
+  line-height: 25px;
+
+} 
+  footer {
+    background-color: black;
+    color: #fff;
+  }
+  
+  .footer a {
+    text-decoration: none;
+  }
+  
+  .footer {
+  }
+  
+  
+ /* students information */
+
+ .students h3{
+   color:purple;
+   background-color: springgreen;
+   padding: 40px 20px;
+   font-size: 40px;
+   border-radius: 100%;
+   margin: 0px;
+   font-weight: bold;
+ }
+ .students h3 :hover{
+
+ }
+ .students h4{
+   color:white;
+   background-color:darkturquoise;
+   font-size:30px;
+   margin: 0px;
+   font-weight: bold;
+   padding: 10px;
+   border-radius: 50%;
+ }
+ .students h4 :hover{
+
+ }
+
+
+/*Teachers information*/
+h1{
+  color:white;
+  background-color:#002147;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 50%;
+  font-size: 400%;
+  margin-top: 90px;
+}
+
+}
+ table{
+   background-color:#90EE90;
+   color: #000;
+   font-weight: bold;
+ }
+ table th{
+  font-size: 30px;
+}
+.t-img {
+  margin-left: 175px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+}
+
+.t-info {
+  margin-top: 85px;
+  line-height: 35px;
+  font-size: 14px;
+  background: #e2edf5;
+  padding-left: 17px;
+  padding-right: 10px;
+  margin-right: 50px;
+}
+/*Departments information*/
+.row{
+margin-top: 80px;
+}
+.col{
+    padding: 5% 5%;
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 3px 5px 8px 5px rgb(70, 56, 56);
+}
+h5{
+  font-size: 150%;
+  color:black;
+  font-weight: bolder;
+  background-color:skyblue;
+  border-radius: 5%;
+}
+h5 :hover{
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+}
+.photo{
+  width: 30%;
+  height: 30%;
+  padding: 5px;
+  border-radius: 20%;
+}
+.gallery{
+  width: 610px;
+  height: 450px;
+}
+.pic0{
+  float: left;
+}
+.pic{
+  float: right;
+}
+.video{
+  margin-top: 50px;
+  margin-left: 300px;
+
+}
+iframe{
+  border-radius: 20%;
+}
